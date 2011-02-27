@@ -6,3 +6,4 @@ alias ll='ls -lah'
 # cleanup whitespace
 # readme wording
 # adjust vim setting
+# adjust vim setting
