@@ -7,3 +7,4 @@ alias ll='ls -lah'
 # readme wording
 # adjust vim setting
 # adjust vim setting
+# touch backup script
