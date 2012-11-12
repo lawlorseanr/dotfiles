@@ -8,3 +8,4 @@ alias ll='ls -lah'
 # adjust vim setting
 # adjust vim setting
 # touch backup script
+# cleanup whitespace
