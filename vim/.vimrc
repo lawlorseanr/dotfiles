@@ -6,3 +6,4 @@ set tabstop=4
 colorscheme desert
 # adjust vim setting
 # adjust vim setting
+# tweak alias
