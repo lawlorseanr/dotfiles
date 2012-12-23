@@ -10,3 +10,4 @@ alias ll='ls -lah'
 # touch backup script
 # cleanup whitespace
 # touch backup script
+# small git alias tweak
