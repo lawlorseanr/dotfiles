@@ -9,3 +9,4 @@ colorscheme desert
 # tweak alias
 # small git alias tweak
 # readme wording
+# adjust vim setting
