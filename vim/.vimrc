@@ -10,3 +10,4 @@ colorscheme desert
 # small git alias tweak
 # readme wording
 # adjust vim setting
+# cleanup whitespace
