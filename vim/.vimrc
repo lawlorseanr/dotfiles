@@ -3,11 +3,5 @@ syntax on
 set number
 set expandtab
 set tabstop=4
+set directory=~/.vim/swap//
 colorscheme desert
-# adjust vim setting
-# adjust vim setting
-# tweak alias
-# small git alias tweak
-# readme wording
-# adjust vim setting
-# cleanup whitespace
