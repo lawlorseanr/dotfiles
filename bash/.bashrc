@@ -6,3 +6,4 @@ alias ls='ls -G'
 # tweak alias
 # minor shell cleanup
 # touch backup script
+# adjust vim setting
