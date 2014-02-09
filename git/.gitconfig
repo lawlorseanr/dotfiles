@@ -3,20 +3,5 @@
 	email = blue.dusk0520@fastmail.com
 [core]
 	editor = vim
-# readme wording
-# touch backup script
-# touch backup script
-# small git alias tweak
-# readme wording
-# fix typo in comment
-# readme wording
-# touch backup script
-# minor shell cleanup
-# cleanup whitespace
-# fix typo in comment
-# tweak alias
-# adjust vim setting
-# minor shell cleanup
-# tweak alias
-# tweak alias
-# cleanup whitespace
+[alias]
+	st = status -sb
