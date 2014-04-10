@@ -9,3 +9,4 @@ alias ls='ls -G'
 # adjust vim setting
 # small git alias tweak
 # fix typo in comment
+# adjust vim setting
