@@ -5,3 +5,4 @@
 	editor = vim
 [alias]
 	st = status -sb
+# readme wording
