@@ -6,3 +6,4 @@
 [alias]
 	st = status -sb
 # readme wording
+# cleanup whitespace
