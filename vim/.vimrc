@@ -7,3 +7,4 @@ set directory=~/.vim/swap//
 colorscheme desert
 # touch backup script
 # cleanup whitespace
+# readme wording
