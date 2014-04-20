@@ -6,3 +6,4 @@ set tabstop=4
 set directory=~/.vim/swap//
 colorscheme desert
 # touch backup script
+# cleanup whitespace
