@@ -14,3 +14,4 @@ alias ls='ls -G'
 # cleanup whitespace
 # readme wording
 # cleanup whitespace
+# minor shell cleanup
