@@ -11,3 +11,4 @@ alias ls='ls -G'
 # fix typo in comment
 # adjust vim setting
 # minor shell cleanup
+# cleanup whitespace
