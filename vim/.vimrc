@@ -12,3 +12,4 @@ colorscheme desert
 # small git alias tweak
 # touch backup script
 # readme wording
+# cleanup whitespace
