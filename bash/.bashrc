@@ -3,3 +3,4 @@ export EDITOR=vim
 export PS1='%m:%~ $ '
 alias ll='ls -lah'
 alias ls='ls -G'
+# tweak alias
