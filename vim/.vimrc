@@ -11,3 +11,4 @@ colorscheme desert
 # touch backup script
 # small git alias tweak
 # touch backup script
+# readme wording
