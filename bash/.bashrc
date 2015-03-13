@@ -5,3 +5,4 @@ alias ll='ls -lah'
 alias ls='ls -G'
 # tweak alias
 # touch backup script
+# minor shell cleanup
