@@ -9,3 +9,4 @@ alias ls='ls -G'
 # tweak alias
 # tweak alias
 # tweak alias
+# minor shell cleanup
