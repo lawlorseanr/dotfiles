@@ -5,13 +5,6 @@
 	editor = vim
 [alias]
 	st = status -sb
-# readme wording
-# cleanup whitespace
-# touch backup script
-# readme wording
-# readme wording
-# adjust vim setting
-# tweak alias
-# minor shell cleanup
-# cleanup whitespace
-# readme wording
+	lg = log --oneline --graph -15
+[color]
+	ui = auto
