@@ -11,3 +11,4 @@ alias ls='ls -G'
 # tweak alias
 # minor shell cleanup
 # small git alias tweak
+# readme wording
