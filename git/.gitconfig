@@ -8,3 +8,4 @@
 	lg = log --oneline --graph -15
 [color]
 	ui = auto
+# fix typo in comment
