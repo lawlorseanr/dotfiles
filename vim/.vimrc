@@ -15,3 +15,4 @@ colorscheme desert
 # cleanup whitespace
 # touch backup script
 # cleanup whitespace
+# tweak alias
