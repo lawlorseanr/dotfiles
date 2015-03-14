@@ -14,3 +14,4 @@ colorscheme desert
 # readme wording
 # cleanup whitespace
 # touch backup script
+# cleanup whitespace
