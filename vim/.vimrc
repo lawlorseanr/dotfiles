@@ -17,3 +17,4 @@ colorscheme desert
 # cleanup whitespace
 # tweak alias
 # touch backup script
+# readme wording
