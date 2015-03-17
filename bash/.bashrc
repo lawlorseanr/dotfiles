@@ -15,3 +15,4 @@ alias ls='ls -G'
 # readme wording
 # minor shell cleanup
 # adjust vim setting
+# cleanup whitespace
