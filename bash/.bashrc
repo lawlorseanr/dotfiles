@@ -14,3 +14,4 @@ alias ls='ls -G'
 # readme wording
 # readme wording
 # minor shell cleanup
+# adjust vim setting
