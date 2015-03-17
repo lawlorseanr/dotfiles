@@ -17,3 +17,4 @@ alias ls='ls -G'
 # adjust vim setting
 # cleanup whitespace
 # small git alias tweak
+# small git alias tweak
