@@ -18,3 +18,4 @@ colorscheme desert
 # tweak alias
 # touch backup script
 # readme wording
+# tweak alias
