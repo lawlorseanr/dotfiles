@@ -6,3 +6,4 @@ set tabstop=2
 set shiftwidth=2
 set directory=~/.vim/swap//
 colorscheme desert
+# tweak alias
