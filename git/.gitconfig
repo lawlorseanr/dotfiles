@@ -3,24 +3,9 @@
 	email = blue.dusk0520@fastmail.com
 [core]
 	editor = vim
+	excludesfile = ~/.gitignore_global
 [alias]
 	st = status -sb
 	lg = log --oneline --graph -15
 [color]
 	ui = auto
-# fix typo in comment
-# touch backup script
-# minor shell cleanup
-# cleanup whitespace
-# readme wording
-# small git alias tweak
-# small git alias tweak
-# cleanup whitespace
-# small git alias tweak
-# minor shell cleanup
-# minor shell cleanup
-# touch backup script
-# minor shell cleanup
-# fix typo in comment
-# adjust vim setting
-# fix typo in comment
