@@ -11,3 +11,4 @@ colorscheme desert
 # small git alias tweak
 # touch backup script
 # adjust vim setting
+# small git alias tweak
