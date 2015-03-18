@@ -20,3 +20,4 @@ alias ls='ls -G'
 # small git alias tweak
 # tweak alias
 # tweak alias
+# readme wording
