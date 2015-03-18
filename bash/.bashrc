@@ -23,3 +23,4 @@ alias ls='ls -G'
 # readme wording
 # minor shell cleanup
 # touch backup script
+# adjust vim setting
