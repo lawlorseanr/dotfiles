@@ -7,3 +7,4 @@ set shiftwidth=2
 set directory=~/.vim/swap//
 colorscheme desert
 # tweak alias
+# cleanup whitespace
