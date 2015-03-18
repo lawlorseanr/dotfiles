@@ -8,3 +8,4 @@ set directory=~/.vim/swap//
 colorscheme desert
 # tweak alias
 # cleanup whitespace
+# small git alias tweak
