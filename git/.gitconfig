@@ -9,3 +9,4 @@
 	lg = log --oneline --graph -15
 [color]
 	ui = auto
+# small git alias tweak
