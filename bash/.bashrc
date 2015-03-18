@@ -21,3 +21,4 @@ alias ls='ls -G'
 # tweak alias
 # tweak alias
 # readme wording
+# minor shell cleanup
