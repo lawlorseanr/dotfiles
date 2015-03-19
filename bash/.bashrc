@@ -27,3 +27,4 @@ alias ls='ls -G'
 # small git alias tweak
 # fix typo in comment
 # cleanup whitespace
+# fix typo in comment
