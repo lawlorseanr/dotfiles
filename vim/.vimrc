@@ -15,3 +15,4 @@ colorscheme desert
 # tweak alias
 # small git alias tweak
 # adjust vim setting
+# adjust vim setting
