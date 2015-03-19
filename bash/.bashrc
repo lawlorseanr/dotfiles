@@ -25,3 +25,4 @@ alias ls='ls -G'
 # touch backup script
 # adjust vim setting
 # small git alias tweak
+# fix typo in comment
