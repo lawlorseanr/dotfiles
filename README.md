@@ -5,3 +5,4 @@ Personal shell and editor config.
 # small git alias tweak
 # tweak alias
 # touch backup script
+# minor shell cleanup
