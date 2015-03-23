@@ -18,3 +18,4 @@ colorscheme desert
 # adjust vim setting
 # tweak alias
 # touch backup script
+# readme wording
