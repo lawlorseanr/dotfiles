@@ -20,3 +20,4 @@ colorscheme desert
 # touch backup script
 # readme wording
 # adjust vim setting
+# fix typo in comment
