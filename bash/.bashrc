@@ -30,3 +30,4 @@ alias ls='ls -G'
 # fix typo in comment
 # fix typo in comment
 # cleanup whitespace
+# tweak alias
