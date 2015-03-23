@@ -32,3 +32,4 @@ alias ls='ls -G'
 # cleanup whitespace
 # tweak alias
 # tweak alias
+# adjust vim setting
