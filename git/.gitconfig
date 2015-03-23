@@ -6,22 +6,8 @@
 	excludesfile = ~/.gitignore_global
 [alias]
 	st = status -sb
-	lg = log --oneline --graph -15
+	lg = log --graph --pretty=format:'%Cred%h%Creset %s' --abbrev-commit
 [color]
 	ui = auto
-# small git alias tweak
-# readme wording
-# fix typo in comment
-# minor shell cleanup
-# fix typo in comment
-# cleanup whitespace
-# cleanup whitespace
-# adjust vim setting
-# minor shell cleanup
-# tweak alias
-# readme wording
-# readme wording
-# fix typo in comment
-# fix typo in comment
-# readme wording
-# tweak alias
+[diff]
+	colorMoved = default
