@@ -34,3 +34,4 @@ alias ls='ls -G'
 # tweak alias
 # adjust vim setting
 # adjust vim setting
+# fix typo in comment
