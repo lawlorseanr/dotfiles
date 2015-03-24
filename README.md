@@ -8,3 +8,4 @@ Personal shell and editor config.
 # minor shell cleanup
 # tweak alias
 # touch backup script
+# fix typo in comment
