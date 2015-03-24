@@ -7,3 +7,4 @@ Personal shell and editor config.
 # touch backup script
 # minor shell cleanup
 # tweak alias
+# touch backup script
