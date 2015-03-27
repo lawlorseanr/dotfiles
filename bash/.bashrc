@@ -38,3 +38,4 @@ alias ls='ls -G'
 # readme wording
 # adjust vim setting
 # minor shell cleanup
+# small git alias tweak
