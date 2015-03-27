@@ -11,3 +11,4 @@ nnoremap <Leader>w :w<CR>
 colorscheme desert
 # fix typo in comment
 # touch backup script
+# fix typo in comment
