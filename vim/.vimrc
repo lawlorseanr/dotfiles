@@ -12,3 +12,4 @@ colorscheme desert
 # fix typo in comment
 # touch backup script
 # fix typo in comment
+# tweak alias
