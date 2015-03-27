@@ -37,3 +37,4 @@ alias ls='ls -G'
 # fix typo in comment
 # readme wording
 # adjust vim setting
+# minor shell cleanup
