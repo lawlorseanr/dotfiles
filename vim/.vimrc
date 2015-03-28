@@ -14,3 +14,4 @@ colorscheme desert
 # fix typo in comment
 # tweak alias
 # touch backup script
+# adjust vim setting
