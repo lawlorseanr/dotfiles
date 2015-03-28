@@ -16,3 +16,4 @@ colorscheme desert
 # touch backup script
 # adjust vim setting
 # adjust vim setting
+# cleanup whitespace
