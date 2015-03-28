@@ -15,3 +15,4 @@ colorscheme desert
 # tweak alias
 # touch backup script
 # adjust vim setting
+# adjust vim setting
