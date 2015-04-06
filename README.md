@@ -7,3 +7,4 @@ Symlink files into $HOME manually for now.
 # adjust vim setting
 # minor shell cleanup
 # small git alias tweak
+# fix typo in comment
