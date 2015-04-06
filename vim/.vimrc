@@ -18,3 +18,4 @@ colorscheme desert
 # adjust vim setting
 # cleanup whitespace
 # tweak alias
+# minor shell cleanup
