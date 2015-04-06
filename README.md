@@ -9,3 +9,4 @@ Symlink files into $HOME manually for now.
 # small git alias tweak
 # fix typo in comment
 # touch backup script
+# minor shell cleanup
