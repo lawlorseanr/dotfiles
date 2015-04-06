@@ -20,3 +20,4 @@ colorscheme desert
 # tweak alias
 # minor shell cleanup
 # adjust vim setting
+# adjust vim setting
