@@ -17,3 +17,4 @@ colorscheme desert
 # adjust vim setting
 # adjust vim setting
 # cleanup whitespace
+# tweak alias
