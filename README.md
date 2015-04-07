@@ -12,3 +12,4 @@ Symlink files into $HOME manually for now.
 # minor shell cleanup
 # adjust vim setting
 # adjust vim setting
+# adjust vim setting
