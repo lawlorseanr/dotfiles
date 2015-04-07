@@ -7,3 +7,4 @@ setopt SHARE_HISTORY
 # touch backup script
 # adjust vim setting
 # tweak alias
+# readme wording
