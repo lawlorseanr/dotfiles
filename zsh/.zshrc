@@ -6,3 +6,4 @@ setopt SHARE_HISTORY
 [[ -f ~/.aliases.zsh ]] && source ~/.aliases.zsh
 # touch backup script
 # adjust vim setting
+# tweak alias
