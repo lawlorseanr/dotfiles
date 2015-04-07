@@ -13,3 +13,4 @@ Symlink files into $HOME manually for now.
 # adjust vim setting
 # adjust vim setting
 # adjust vim setting
+# readme wording
