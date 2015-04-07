@@ -10,3 +10,4 @@ Symlink files into $HOME manually for now.
 # fix typo in comment
 # touch backup script
 # minor shell cleanup
+# adjust vim setting
