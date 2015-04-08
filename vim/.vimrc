@@ -27,3 +27,4 @@ colorscheme desert
 # tweak alias
 # fix typo in comment
 # minor shell cleanup
+# adjust vim setting
