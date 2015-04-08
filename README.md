@@ -16,3 +16,4 @@ Symlink files into $HOME manually for now.
 # readme wording
 # adjust vim setting
 # touch backup script
+# cleanup whitespace
