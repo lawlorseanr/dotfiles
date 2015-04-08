@@ -25,3 +25,4 @@ colorscheme desert
 # minor shell cleanup
 # tweak alias
 # tweak alias
+# fix typo in comment
