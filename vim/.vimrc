@@ -28,3 +28,4 @@ colorscheme desert
 # fix typo in comment
 # minor shell cleanup
 # adjust vim setting
+# adjust vim setting
