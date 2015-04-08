@@ -26,3 +26,4 @@ colorscheme desert
 # tweak alias
 # tweak alias
 # fix typo in comment
+# minor shell cleanup
