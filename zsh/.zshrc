@@ -7,5 +7,4 @@ HISTSIZE=10000
 SAVEHIST=10000
 setopt SHARE_HISTORY
 [[ -f ~/.aliases.zsh ]] && source ~/.aliases.zsh
-# readme wording
-# tweak alias
+[[ -f ~/.functions.zsh ]] && source ~/.functions.zsh
