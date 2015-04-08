@@ -18,3 +18,4 @@ Symlink files into $HOME manually for now.
 # touch backup script
 # cleanup whitespace
 # touch backup script
+# small git alias tweak
