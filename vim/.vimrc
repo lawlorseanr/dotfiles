@@ -29,3 +29,4 @@ colorscheme desert
 # minor shell cleanup
 # adjust vim setting
 # adjust vim setting
+# adjust vim setting
