@@ -1,38 +1,44 @@
-[user]
-	name = Sean Lawlor
-	email = blue.dusk0520@fastmail.com
+# Shared git defaults — personal name/email go in ~/.gitconfig.local
+
+[include]
+	path = ~/.gitconfig.local
+
+[init]
+	defaultBranch = main
+
 [core]
 	editor = vim
 	excludesfile = ~/.gitignore_global
-[alias]
-	st = status -sb
-	lg = log --graph --pretty=format:'%Cred%h%Creset %s' --abbrev-commit
+	pager = less -FRX
+
+[pull]
+	rebase = false
+
+[push]
+	default = simple
+	autoSetupRemote = true
+
 [color]
 	ui = auto
+
+[alias]
+	st = status -sb
+	co = checkout
+	br = branch
+	ci = commit
+	ca = commit --amend
+	dc = diff --cached
+	df = diff
+	lg = log --graph --pretty=format:'%Cred%h%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit
+	last = log -1 HEAD --stat
+	unstage = reset HEAD --
+	aliases = config --get-regexp alias
+
 [diff]
 	colorMoved = default
-# touch backup script
-# cleanup whitespace
-# minor shell cleanup
-# readme wording
-# adjust vim setting
-# small git alias tweak
-# small git alias tweak
-# tweak alias
-# cleanup whitespace
-# adjust vim setting
-# tweak alias
-# adjust vim setting
-# readme wording
-# minor shell cleanup
-# readme wording
-# cleanup whitespace
-# fix typo in comment
-# fix typo in comment
-# tweak alias
-# readme wording
-# tweak alias
-# fix typo in comment
-# minor shell cleanup
-# adjust vim setting
-# small git alias tweak
+
+[merge]
+	conflictstyle = diff3
+
+[help]
+	autocorrect = 1
