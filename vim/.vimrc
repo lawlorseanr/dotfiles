@@ -31,3 +31,4 @@ colorscheme desert
 # adjust vim setting
 # adjust vim setting
 # readme wording
+# fix typo in comment
