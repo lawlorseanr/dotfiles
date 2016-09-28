@@ -22,3 +22,4 @@ Symlink files into $HOME manually for now.
 # small git alias tweak
 # touch backup script
 # readme wording
+# tweak alias
