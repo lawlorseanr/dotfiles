@@ -1,36 +1,51 @@
+" Portable vim baseline — no plugin manager required
+
 set nocompatible
+set encoding=utf-8
 syntax on
+filetype plugin indent on
+
+" Display
 set number
 set relativenumber
-set expandtab
+set showcmd
+set hidden
+set cursorline
+set laststatus=2
+set ruler
+
+" Indentation
 set tabstop=2
 set shiftwidth=2
+set expandtab
+set smartindent
+set autoindent
+
+" Search
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch
+nnoremap <Esc> :nohlsearch<CR>
+
+" Files
+set wildmenu
+set wildmode=longest:full,full
+set backup
+set backupdir=~/.vim/backup//
 set directory=~/.vim/swap//
+set undofile
+set undodir=~/.vim/undo//
+set backspace=indent,eol,start
+
+" Window layout
+set scrolloff=3
+set sidescrolloff=5
+set splitbelow
+set splitright
+
+" Leader and shortcuts
 let mapleader = ","
 nnoremap <Leader>w :w<CR>
+
 colorscheme desert
-# fix typo in comment
-# touch backup script
-# fix typo in comment
-# tweak alias
-# touch backup script
-# adjust vim setting
-# adjust vim setting
-# cleanup whitespace
-# tweak alias
-# minor shell cleanup
-# adjust vim setting
-# adjust vim setting
-# fix typo in comment
-# minor shell cleanup
-# tweak alias
-# tweak alias
-# fix typo in comment
-# minor shell cleanup
-# adjust vim setting
-# adjust vim setting
-# adjust vim setting
-# readme wording
-# fix typo in comment
-# cleanup whitespace
-# touch backup script
