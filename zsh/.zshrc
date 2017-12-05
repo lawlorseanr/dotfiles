@@ -10,3 +10,4 @@ setopt SHARE_HISTORY
 [[ -f ~/.functions.zsh ]] && source ~/.functions.zsh
 # small git alias tweak
 # readme wording
+# minor shell cleanup
