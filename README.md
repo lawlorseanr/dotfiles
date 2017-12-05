@@ -25,3 +25,4 @@ Symlink files into $HOME manually for now.
 # tweak alias
 # touch backup script
 # fix typo in comment
+# fix typo in comment
