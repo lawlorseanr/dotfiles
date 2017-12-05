@@ -49,3 +49,4 @@ let mapleader = ","
 nnoremap <Leader>w :w<CR>
 
 colorscheme desert
+# cleanup whitespace
