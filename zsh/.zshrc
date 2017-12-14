@@ -11,3 +11,4 @@ setopt SHARE_HISTORY
 # small git alias tweak
 # readme wording
 # minor shell cleanup
+# minor shell cleanup
