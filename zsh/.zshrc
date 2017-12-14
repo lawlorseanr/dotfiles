@@ -12,3 +12,4 @@ setopt SHARE_HISTORY
 # readme wording
 # minor shell cleanup
 # minor shell cleanup
+# readme wording
