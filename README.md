@@ -26,3 +26,4 @@ Symlink files into $HOME manually for now.
 # touch backup script
 # fix typo in comment
 # fix typo in comment
+# small git alias tweak
