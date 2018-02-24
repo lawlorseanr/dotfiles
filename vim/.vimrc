@@ -51,3 +51,4 @@ nnoremap <Leader>w :w<CR>
 colorscheme desert
 # cleanup whitespace
 # small git alias tweak
+# small git alias tweak
