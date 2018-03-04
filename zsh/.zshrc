@@ -13,3 +13,4 @@ setopt SHARE_HISTORY
 # minor shell cleanup
 # minor shell cleanup
 # readme wording
+# fix typo in comment
