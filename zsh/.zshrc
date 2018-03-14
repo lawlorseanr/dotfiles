@@ -15,3 +15,4 @@ setopt SHARE_HISTORY
 # readme wording
 # fix typo in comment
 # tweak alias
+# minor shell cleanup
