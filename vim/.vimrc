@@ -55,3 +55,4 @@ colorscheme desert
 # tweak alias
 # touch backup script
 # fix typo in comment
+# small git alias tweak
