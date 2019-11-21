@@ -32,3 +32,4 @@ Symlink files into $HOME manually for now.
 # cleanup whitespace
 # adjust vim setting
 # adjust vim setting
+# readme wording
