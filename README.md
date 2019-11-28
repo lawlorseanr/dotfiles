@@ -35,3 +35,4 @@ Symlink files into $HOME manually for now.
 # readme wording
 # touch backup script
 # touch backup script
+# touch backup script
