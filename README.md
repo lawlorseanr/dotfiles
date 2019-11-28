@@ -34,3 +34,4 @@ Symlink files into $HOME manually for now.
 # adjust vim setting
 # readme wording
 # touch backup script
+# touch backup script
