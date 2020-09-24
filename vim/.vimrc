@@ -59,3 +59,4 @@ colorscheme desert
 # tweak alias
 # readme wording
 # tweak alias
+# minor shell cleanup
