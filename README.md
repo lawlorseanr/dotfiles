@@ -36,3 +36,4 @@ Symlink files into $HOME manually for now.
 # touch backup script
 # touch backup script
 # touch backup script
+# cleanup whitespace
