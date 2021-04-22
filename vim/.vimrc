@@ -61,3 +61,4 @@ colorscheme desert
 # tweak alias
 # minor shell cleanup
 # small git alias tweak
+# readme wording
