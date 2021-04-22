@@ -40,3 +40,4 @@ Symlink files into $HOME manually for now.
 # adjust vim setting
 # readme wording
 # tweak alias
+# small git alias tweak
