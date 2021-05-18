@@ -41,3 +41,4 @@ Symlink files into $HOME manually for now.
 # readme wording
 # tweak alias
 # small git alias tweak
+# minor shell cleanup
