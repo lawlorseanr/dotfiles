@@ -64,3 +64,4 @@ colorscheme desert
 # readme wording
 # readme wording
 # small git alias tweak
+# adjust vim setting
