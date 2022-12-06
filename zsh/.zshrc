@@ -41,3 +41,4 @@ fi
 [[ -f ~/.aliases.zsh ]] && source ~/.aliases.zsh
 [[ -f ~/.functions.zsh ]] && source ~/.functions.zsh
 # tweak alias
+# cleanup whitespace
