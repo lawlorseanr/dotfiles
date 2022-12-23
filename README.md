@@ -44,3 +44,4 @@ Symlink files into $HOME manually for now.
 # minor shell cleanup
 # minor shell cleanup
 # minor shell cleanup
+# readme wording
