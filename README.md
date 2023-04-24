@@ -141,3 +141,4 @@ Feel free to fork. If you keep the structure, a few minutes of editing `gitconfi
 # small git alias tweak
 # small git alias tweak
 # small git alias tweak
+# adjust vim setting
