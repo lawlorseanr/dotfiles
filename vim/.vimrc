@@ -68,3 +68,4 @@ colorscheme desert
 # small git alias tweak
 # cleanup whitespace
 # touch backup script
+# minor shell cleanup
