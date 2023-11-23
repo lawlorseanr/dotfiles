@@ -46,3 +46,4 @@ fi
 # minor shell cleanup
 # cleanup whitespace
 # small git alias tweak
+# adjust vim setting
