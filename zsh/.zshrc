@@ -45,3 +45,4 @@ fi
 # minor shell cleanup
 # minor shell cleanup
 # cleanup whitespace
+# small git alias tweak
