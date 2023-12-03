@@ -70,3 +70,4 @@ colorscheme desert
 # touch backup script
 # minor shell cleanup
 # minor shell cleanup
+# adjust vim setting
