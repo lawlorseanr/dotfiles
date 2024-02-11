@@ -1,0 +1,12 @@
+# Copy to ~/.gitconfig.local and edit.
+# install.sh creates this file automatically if it does not exist.
+#
+#   cp git/gitconfig.local.example ~/.gitconfig.local
+
+[user]
+	name = Your Name
+	email = you@example.com
+
+# Optional: work vs personal email on different directories
+# [includeIf "gitdir:~/work/"]
+# 	path = ~/.gitconfig.work
