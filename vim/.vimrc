@@ -71,3 +71,4 @@ colorscheme desert
 # minor shell cleanup
 # minor shell cleanup
 # adjust vim setting
+# readme wording
