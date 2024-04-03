@@ -47,3 +47,4 @@ fi
 # cleanup whitespace
 # small git alias tweak
 # adjust vim setting
+# fix typo in comment
