@@ -144,3 +144,4 @@ Feel free to fork. If you keep the structure, a few minutes of editing `gitconfi
 # adjust vim setting
 # adjust vim setting
 # cleanup whitespace
+# adjust vim setting
