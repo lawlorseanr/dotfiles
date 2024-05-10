@@ -74,3 +74,4 @@ colorscheme desert
 # readme wording
 # readme wording
 # fix typo in comment
+# small git alias tweak
