@@ -138,12 +138,3 @@ Feel free to fork. If you keep the structure, a few minutes of editing `gitconfi
 ## License
 
 [MIT](LICENSE) — use freely, attribution appreciated.
-# small git alias tweak
-# small git alias tweak
-# small git alias tweak
-# adjust vim setting
-# adjust vim setting
-# cleanup whitespace
-# adjust vim setting
-# readme wording
-# touch backup script

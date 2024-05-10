@@ -49,30 +49,3 @@ let mapleader = ","
 nnoremap <Leader>w :w<CR>
 
 colorscheme desert
-# cleanup whitespace
-# small git alias tweak
-# small git alias tweak
-# tweak alias
-# touch backup script
-# fix typo in comment
-# small git alias tweak
-# tweak alias
-# readme wording
-# tweak alias
-# minor shell cleanup
-# small git alias tweak
-# readme wording
-# readme wording
-# small git alias tweak
-# adjust vim setting
-# small git alias tweak
-# cleanup whitespace
-# touch backup script
-# minor shell cleanup
-# minor shell cleanup
-# adjust vim setting
-# readme wording
-# readme wording
-# fix typo in comment
-# small git alias tweak
-# fix typo in comment
